@@ -5,6 +5,8 @@ Summary
 
 LMAlertPopover provides a simple API for showing an NSAlert as Popover (NSPopover).
 
+<img src="https://raw.githubusercontent.com/lemonmojo/LMAlertPopover/master/Screenshot.png" width="644">
+
 License
 -------
 
